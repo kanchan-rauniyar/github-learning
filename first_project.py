@@ -9,3 +9,5 @@ print("My Skills:")
 
 for skill in skills:
   print("-", skill)
+
+print("I am learning Git and GitHub!")
