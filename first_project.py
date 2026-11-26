@@ -11,3 +11,11 @@ for skill in skills:
   print("-", skill)
 
 print("I am learning Git and GitHub!")
+
+print("My Data Science Journey")
+
+print("Currently learning:")
+print("-Python")
+print("-SQL")
+print("-Machine Learning")
+print("-Git and GitHub")
