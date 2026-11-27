@@ -17,5 +17,7 @@ print("My Data Science Journey")
 print("Currently learning:")
 print("-Python")
 print("-SQL")
+
+print("Learning Git Pull!")
 print("-Machine Learning")
 print("-Git and GitHub")
